@@ -1,10 +1,12 @@
 ### Aqeel Ahmed
 **Full Stack Developer**
 
-Mechanical Engineering graduate who transitioned into software development.
+Mechanical Engineering graduate with a systems-first approach to software development.
 
-**My Philosophy:**
-I am driven by the **"Why."** I don't just write code that works; I dig deep to understand the underlying logic and system architecture. I am not attached to a specific tech stack—I treat languages and frameworks as tools to solve problems. Whether it's the MERN stack today or Rust tomorrow, I enjoy the process of deconstructing complex concepts and rebuilding them.
+**My Philosophy**
+- Driven by the **“Why”** — I focus on understanding systems, not just making code work.
+- I focus on solving problems first, then choose the language or framework that fits best.
+- I enjoy breaking down complex ideas and rebuilding them from first principles.
 
 ---
 
@@ -24,5 +26,7 @@ I am driven by the **"Why."** I don't just write code that works; I dig deep to 
 ---
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=aqeell7&show_icons=true&theme=graywhite&hide_border=true" alt="Aqeel's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqeell7&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqeell7&theme=default" height="150"/>
 </p>
+
