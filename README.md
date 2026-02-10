@@ -1,32 +1,20 @@
-### Aqeel Ahmed
-**Full Stack Developer**
+Aqeel Ahmed
 
-Mechanical Engineering graduate with a systems-first approach to software development.
+Full Stack Developer
 
-**My Philosophy**
-- Driven by the **“Why”** — I focus on understanding systems, not just making code work.
-- I focus on solving problems first, then choose the language or framework that fits best.
-- I enjoy breaking down complex ideas and rebuilding them from first principles.
+Mechanical Engineering graduate turned software developer with a strong focus on systems thinking and first-principles problem solving.
 
----
+🚀 What I’m Building
 
-**🛠️ Technical Stack**
-* **Frontend:** React.js, Next.js, Tailwind CSS, HTML5/CSS3
-* **Backend:** Node.js, Express.js, REST APIs
-* **Database:** MongoDB, PostgreSQL
-* **Tools:** Git, GitHub, Docker, Postman
+Devpulse — AI-Powered Release Notes Agent
+Automating release note generation by understanding code changes, commits, and deployment context.
 
----
+🛠 Tech Stack
 
-**🔭 Current Focus**
-* **First Principles Learning:** Currently deconstructing how **WebSockets** handle real-time data flow for my uptime monitoring project.
-* **Open Source:** Migrating CI/CD pipelines to GitHub Actions to understand automation workflows better.
-* **System Design:** Moving beyond "making it work" to "making it scalable."
+Frontend: React, Next.js, Tailwind CSS
+Backend: Node.js, Express, REST APIs
+Databases: MongoDB, PostgreSQL
+Tools: Git, GitHub, Docker, Postman
 
----
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqeell7&hide_border=true" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqeell7&theme=default" height="150"/>
-</p>
-
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqeell7&hide_border=true" height="150"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqeell7&theme=default" height="150"/> </p>
